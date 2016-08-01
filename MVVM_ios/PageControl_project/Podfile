@@ -1,0 +1,8 @@
+target 'PageControl_project' do
+
+use_frameworks!
+
+pod 'RxCocoa'
+pod 'RxSwift'
+
+end

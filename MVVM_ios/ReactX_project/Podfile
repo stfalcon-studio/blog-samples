@@ -1,0 +1,12 @@
+
+platform :ios, '8.0'
+use_frameworks!
+
+target 'ReactX' do
+
+pod 'Moya/RxSwift'
+pod 'Moya-ModelMapper/RxSwift'
+pod 'RxCocoa'
+pod 'RxOptional'
+
+end
