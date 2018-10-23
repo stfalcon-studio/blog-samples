@@ -1,0 +1,6 @@
+framework module Pods_ReactX {
+  umbrella header "Pods-ReactX-umbrella.h"
+
+  export *
+  module * { export * }
+}
